@@ -1,8 +1,8 @@
 # Molecular Mechanisms of Action Potential Generation, part 1
 
 Warnings :
-* ****Pumps and voltage dependent channels are too different things !!***
-* ****Voltage gated channels behavior is random at the unity scale ! group sturdy of neurons is needed to establish statistical models, we dont know for sure. !
+* ***Pumps and voltage dependent channels are too different things !!***
+* ***Voltage gated channels behavior is random at the unity scale ! group sturdy of neurons is needed to establish statistical models, we dont know for sure. !***
 
 ## K/Na voltage dependent channel mechanism : 
 * On a general blueprint they share the same structure and actually behave in the same way (they close at the same time), except the sodium one has a closing door that results in it to be percieved as something that closes fast , it is though but not really , youll see in the attached photo what i mean 
