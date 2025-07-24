@@ -34,7 +34,7 @@ We currently support the formats below:
 
 ![[Footnote]]
 
-![[Math]]
+![[General view/Formatting/Math]]
 
 ![[Comment]]
 
