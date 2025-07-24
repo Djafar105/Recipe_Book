@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "59af070b2cbf325b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d85952370585dd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f26f585c8feb4970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Version Control crash course.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Version Control crash course"
+            }
+          },
+          {
+            "id": "c63f58404740e566",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "def47a49704bbc20",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0b92a117b0ff9fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4481a2cc2d873333",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a5e4f4ac6f97a919",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9344dcabe326cc6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "082ba2054ab44680",
+    "type": "split",
+    "children": [
+      {
+        "id": "578f38b126af6d50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b535f74991f55d68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Version Control crash course.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Version Control crash course"
+            }
+          },
+          {
+            "id": "725bcd8efa684c33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Version Control crash course.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Version Control crash course"
+            }
+          },
+          {
+            "id": "cb296d03ee3707eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e6048c02a4670f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Version Control crash course.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Version Control crash course"
+            }
+          },
+          {
+            "id": "2c1b976a3f8cf71c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f26f585c8feb4970",
+  "lastOpenFiles": [
+    "Version Control crash course.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Recomended readings.md",
+    "repo",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/Pasted image 20250721200751.png",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/Pasted image 20250722151402.png",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/Propagation of Action Potentials.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 3.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Molecular Mechanisms of Action Potential Generation, part 2.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250721184851.png",
+    "Formatting/Strikethrough.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Resting Membrane Potential/Ionic Basis of the Resting Membrane Potential, part 1.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Resting Membrane Potential/Ionic Basis of the Resting Membrane Potential, part 2.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Learning objectives.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Overview/Overview of neural signaling.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Molecular Mechanisms of Action Potential Generation, part 1.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 2.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250721182752.png",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250720221614.png",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250720221203.png",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250720213854.png",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Resting Membrane Potential/Images",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 1.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/images/Pasted image 20250720181217.png",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/images/Pasted image 20250720173310.png",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/images/Pasted image 20250720172533.png",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/images",
+    "Medical Neuroscience/Core Concepts in neuroscience.md",
+    "Untitled.canvas",
+    "2025-06-19.md",
+    "Recovery documentation/logs/J+0.md",
+    "Recovery documentation/logs/J+1.md",
+    "Statistics and Probabilities/Stat and Prob vid_1.md",
+    "Formatting/Highlighting.md",
+    "Formatting/Math.md",
+    "Formatting/Blockquote.md",
+    "Formatting/Callout.md",
+    "Formatting/Code block.md",
+    "Formatting/Comment.md",
+    "Formatting/Diagram.md",
+    "Formatting/Embeds.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Overview",
+    "Recovery documentation/logs",
+    "Recovery documentation/prologue",
+    "Recovery documentation",
+    "Formatting",
+    "Untitled 1"
+  ]
+}

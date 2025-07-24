@@ -1,0 +1,37 @@
+
+### **Core Skills You Must Master**
+
+- Linear algebra (vectors, matrices, eigen)
+    
+- Calculus & ODEs (derivatives, integrals, dynamics)
+    
+- Probability theory overlap
+    
+- Intro to dynamical systems (phase planes, fixed points)
+    
+- Signal transforms (Fourier basics)
+    
+- Optional: information geometry, RKHS basics
+    
+
+### **Recommended Path**
+
+1. **Linear Algebra**  
+    – MIT OCW (Gilbert Strang) or _Linear Algebra Done Right_  
+    – Practice solving systems, eigen-analysis, SVD
+    
+2. **Differential Equations & Dynamical Systems**  
+    – MIT OCW 18.03 DE course  
+    – For neural ODEs: _Neuronal Dynamics_ (Gerstner & Kistler)
+    
+3. **Mathematical Tools for Neuroscience (Princeton NEU 314)** – free syllabus + code [reddit.com+1classcentral.com+1](https://www.reddit.com/r/learnmachinelearning/comments/jsse9a/recommendations_for_probability_and_statistics/?utm_source=chatgpt.com)[snastase.github.io+1coursera.org+1](https://snastase.github.io/teaching/neu314?utm_source=chatgpt.com)[reddit.com+2linkedin.com+2glassdoor.com+2](https://www.linkedin.com/in/andrew-cawley-bennett-phd-2981421b5?utm_source=chatgpt.com)[en.wikipedia.org+2simonsfoundation.org+2careerkarma.com+2](https://www.simonsfoundation.org/collaborations/global-brain/online-resources-for-systems-and-computational-neuroscience/?utm_source=chatgpt.com)  
+    – Bridges linear algebra, stats, ML with Python notebooks
+    
+4. **Information Theory Primer** as above – extends calculus/prob concepts to neural coding
+    
+5. **Probabilistic Numerics (Optional)** – how to embed uncertainty in ODE solving [snastase.github.io](https://snastase.github.io/teaching/neu314?utm_source=chatgpt.com)[en.wikipedia.org+1en.wikipedia.org+1](https://en.wikipedia.org/wiki/Joshua_Vogelstein?utm_source=chatgpt.com)[en.wikipedia.org](https://en.wikipedia.org/wiki/Probabilistic_numerics?utm_source=chatgpt.com)
+    
+6. **Hands-on**:  
+    – Derive and simulate LIF neuron (1 → many models)  
+    – Analyze stability of a 2-D ODE  
+    – Compute Fourier transform of synthetic neural signal
