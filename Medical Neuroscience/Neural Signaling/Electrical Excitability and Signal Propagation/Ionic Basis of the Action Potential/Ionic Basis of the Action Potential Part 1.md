@@ -2,7 +2,7 @@
 
 ## Intro :
 
-In order to study the ionic basis of the action potential, scientists back in the day (1960s) studied the ion currents #why , so they used the squid's giant axon (very accessible and easy to manipulate), and a very basic electrical circuit,.. The membrane permiability is very much unstable which makes the readings at that time kind of difficult , thus they opted to stabilise the permiability by harnessing the 2nd[[Core Concepts in neuroscience]] , in other words , stabilising the membrane potential --> stabilising the membrane ion channels [[]] --> stabilising the membrane permiability
+In order to study the ionic basis of the action potential, scientists back in the day (1960s) studied the ion currents #why , so they used the squid's giant axon (very accessible and easy to manipulate), and a very basic electrical circuit,.. The membrane permiability is very much unstable which makes the readings at that time kind of difficult , thus they opted to stabilise the permiability by harnessing the 2nd[Core Concepts in neuroscience](Core%20Concept%20in%20neuroscience.md) , in other words , stabilising the membrane potential --> stabilising the membrane ion channels [[]] --> stabilising the membrane permiability
 
 ![Pasted image 20250620090309](./images/Pasted%20image%2020250620090309.png)
 
