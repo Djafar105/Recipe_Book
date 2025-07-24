@@ -20,7 +20,8 @@
 * Two types of propagations : 
 	* Saltatory propagation , in myelinated axons
 	* Continued ? #to_verify 
-	![Pasted image 20250722151402](./images/Pasted%20image%2020250722151402.png)
+	
+ 	![Pasted image 20250722151402](./images/Pasted%20image%2020250722151402.png)
 
 ***
 ## Questions : 
