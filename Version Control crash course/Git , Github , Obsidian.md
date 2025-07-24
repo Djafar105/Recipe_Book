@@ -36,4 +36,5 @@
 * ***Token*** : or **Personal Access Token PAT** is a quite literally a token , (jeton in french) that serves as digital key that gives you access to repositories with customizable permissions. there are two types of tokens :
 	* **Classic** : straight forward permisson scope 
 	* **Fine grained** : specefic scope of permission 
+	basically treat obsidian vault as a normal file thats it 
 	

@@ -8,27 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f26f585c8feb4970",
+            "id": "c63f58404740e566",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Version Control crash course.md",
+                "file": "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Molecular Mechanisms of Action Potential Generation, part 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Version Control crash course"
+              "title": "Molecular Mechanisms of Action Potential Generation, part 2"
             }
           },
           {
-            "id": "c63f58404740e566",
+            "id": "c87b34e842848b7f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Molecular Mechanisms of Action Potential Generation, part 1^.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Molecular Mechanisms of Action Potential Generation, part 1^"
             }
           }
         ]
@@ -84,13 +88,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "082ba2054ab44680",
@@ -172,8 +174,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "b865a86249daa9ee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,54 +205,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f26f585c8feb4970",
+  "active": "c63f58404740e566",
   "lastOpenFiles": [
-    "Version Control crash course.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Molecular Mechanisms of Action Potential Generation, part 1.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Resting Membrane Potential/Ionic Basis of the Resting Membrane Potential, part 1.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Molecular Mechanisms of Action Potential Generation, part 2.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Resting Membrane Potential/Ionic Basis of the Resting Membrane Potential, part 2.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Overview/Overview of neural signaling.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Overview/images",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/Propagation of Action Potentials.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/images",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 3.md",
+    "Molecular Mechanisms of Action Potential Generation, part 1^.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 1.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 2.md",
+    "Version Control crash course/Git , Github , Obsidian.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/images/Capture d'écran 2025-07-24 145107.png",
+    "Untitled.canvas",
+    "Version Control crash course",
+    "Recovery documentation 1/prologue/🔹 Proposed Structure of the Recovery Documentation.md",
+    "Recovery documentation 1/prologue/Prologue.md",
+    "Recovery documentation 1/logs/J+1.md",
+    "Recovery documentation 1/logs/J+0.md",
+    "Recovery documentation 1/prologue",
+    "Recovery documentation 1/logs",
+    "Recovery documentation 1",
+    "2025-07-24.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Recomended readings.md",
     "repo",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/Pasted image 20250721200751.png",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/Pasted image 20250722151402.png",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/Propagation of Action Potentials.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 3.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Molecular Mechanisms of Action Potential Generation, part 2.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/images/Pasted image 20250721200751.png",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/images/Pasted image 20250722151402.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250721184851.png",
-    "Formatting/Strikethrough.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Resting Membrane Potential/Ionic Basis of the Resting Membrane Potential, part 1.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Resting Membrane Potential/Ionic Basis of the Resting Membrane Potential, part 2.md",
+    "General view/Formatting/Strikethrough.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Learning objectives.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Overview/Overview of neural signaling.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Molecular Mechanisms of Action Potential Generation, part 1.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 2.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250721182752.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250720221614.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250720221203.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250720213854.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Resting Membrane Potential/Images",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 1.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/images/Pasted image 20250720181217.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/images/Pasted image 20250720173310.png",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/images/Pasted image 20250720172533.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/images",
     "Medical Neuroscience/Core Concepts in neuroscience.md",
-    "Untitled.canvas",
     "2025-06-19.md",
     "Recovery documentation/logs/J+0.md",
     "Recovery documentation/logs/J+1.md",
     "Statistics and Probabilities/Stat and Prob vid_1.md",
-    "Formatting/Highlighting.md",
-    "Formatting/Math.md",
-    "Formatting/Blockquote.md",
-    "Formatting/Callout.md",
-    "Formatting/Code block.md",
-    "Formatting/Comment.md",
-    "Formatting/Diagram.md",
-    "Formatting/Embeds.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Overview",
-    "Recovery documentation/logs",
-    "Recovery documentation/prologue",
-    "Recovery documentation",
-    "Formatting",
-    "Untitled 1"
+    "General view/Formatting/Highlighting.md"
   ]
 }
