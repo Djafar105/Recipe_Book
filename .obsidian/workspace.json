@@ -55,12 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Version Control crash course/Git , Github , Obsidian.md",
+                "file": "Associate data science/Intermediate Python/1-Matplotlib.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git , Github , Obsidian"
+              "title": "1-Matplotlib"
+            }
+          },
+          {
+            "id": "8325e2ada031f9fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Associate data science/Projects/P1-Investigating Netflix Movies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "P1-Investigating Netflix Movies"
             }
           },
           {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -250,13 +264,17 @@
   },
   "active": "4481a2cc2d873333",
   "lastOpenFiles": [
+    "Associate data science/Projects",
+    "Associate data science/Projects/P1-Investigating Netflix Movies.md",
+    "Untitled.md",
+    "Version Control crash course/Git , Github , Obsidian.md",
+    "Associate data science/Intermediate Python/1-Matplotlib.md",
+    "Associate data science/Intermediate Python/2.1- Dictionaries.md",
+    "Associate data science/Intermediate Python/2.2 Pandas.md",
     "Associate data science/Intermediate Python/5-Hacker statistics.md",
     "Associate data science/Intermediate Python/4-Loops.md",
     "Associate data science/Intermediate Python/3.1-Mini low level hustle.md",
     "Associate data science/Intermediate Python/3-Logic, control flow and Filtering.md",
-    "Associate data science/Intermediate Python/2.2 Pandas.md",
-    "Associate data science/Intermediate Python/2.1- Dictionaries.md",
-    "Associate data science/Intermediate Python/1-Matplotlib.md",
     "Associate data science/Introduction to Python/2-Python Lists.md",
     "Associate data science/Introduction to Python/4-Numpy.md",
     "Associate data science/Introduction to Python/3-Functions and Packages.md",
@@ -269,20 +287,16 @@
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Resting Membrane Potential/Ionic Basis of the Resting Membrane Potential, part 1.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Molecular Mechanisms of Action Potential Generation, part 1.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Molecular Mechanisms of Action Potential Generation, part 2.md",
-    "Version Control crash course/Git , Github , Obsidian.md",
     "Associate data science/Introduction to Python/Python Functions sheet.md",
     "Associate data science/Introduction to Python/1-Python Basics.md",
     "Associate data science/Introduction to Python",
     "Molecular Mechanisms of Action Potential Generation, part 1^.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Overview/Overview of neural signaling.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Overview/images",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/Propagation of Action Potentials.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/images",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/images/Capture d'écran 2025-07-24 145107.png",
     "Untitled.canvas",
     "Version Control crash course",
-    "Recovery documentation 1/prologue/🔹 Proposed Structure of the Recovery Documentation.md",
-    "Recovery documentation 1/prologue/Prologue.md",
     "Recovery documentation 1/prologue",
     "Recovery documentation 1/logs",
     "Recovery documentation 1",
