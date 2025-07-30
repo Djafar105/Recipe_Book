@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Associate data science/Intermediate Python/5-Hacker statistics.md",
+                "file": "Version Control crash course/Git , Github , Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-Hacker statistics"
+              "title": "Git , Github , Obsidian"
             }
           },
           {
@@ -248,15 +248,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c2b1995d3e0ca63",
+  "active": "4481a2cc2d873333",
   "lastOpenFiles": [
+    "Associate data science/Intermediate Python/5-Hacker statistics.md",
     "Associate data science/Intermediate Python/4-Loops.md",
     "Associate data science/Intermediate Python/3.1-Mini low level hustle.md",
     "Associate data science/Intermediate Python/3-Logic, control flow and Filtering.md",
     "Associate data science/Intermediate Python/2.2 Pandas.md",
     "Associate data science/Intermediate Python/2.1- Dictionaries.md",
     "Associate data science/Intermediate Python/1-Matplotlib.md",
-    "Associate data science/Intermediate Python/5-Hacker statistics.md",
     "Associate data science/Introduction to Python/2-Python Lists.md",
     "Associate data science/Introduction to Python/4-Numpy.md",
     "Associate data science/Introduction to Python/3-Functions and Packages.md",
