@@ -57,11 +57,13 @@ Step 2
 * ### enumerate() 
 	* It allows you to loop over a list (or iterable) while also getting the index (position) of each element.
 	* It automatically generates pairs (index, value) during each iteration. the first variable in the unpacking (e.g., x) will hold the index, and the second (e.g., height) will hold the element value.
-	```python
+```python
 areas = [11.25, 18.0, 20.0, 10.75, 9.50]
 for x, height in enumerate(areas):
     print(x, height)
-    -------------------------------
+```
+-------------------------------
+```python
 Output:
 0 11.25
 1 18.0
