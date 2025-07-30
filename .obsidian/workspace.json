@@ -8,20 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1388a135528a916",
+            "id": "0e4c0b9f580107c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Version Control crash course/Git , Github , Obsidian.md",
+                "file": "Associate data science/Introduction to Python/4-Numpy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git , Github , Obsidian"
+              "title": "4-Numpy"
+            }
+          },
+          {
+            "id": "8fb98679a2ad33ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Associate data science/Intermediate Python/3-Logic, control flow and Filtering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-Logic, control flow and Filtering"
+            }
+          },
+          {
+            "id": "1ca4e7922d373adc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Associate data science/Intermediate Python/3.1-Mini low level hustle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1-Mini low level hustle"
+            }
+          },
+          {
+            "id": "8c2b1995d3e0ca63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Associate data science/Intermediate Python/5-Hacker statistics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5-Hacker statistics"
+            }
+          },
+          {
+            "id": "c4c0865ede66dde5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Associate data science/Intermediate Python/3.1-Mini low level hustle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1-Mini low level hustle"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,54 +248,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1388a135528a916",
+  "active": "8c2b1995d3e0ca63",
   "lastOpenFiles": [
+    "Associate data science/Intermediate Python/4-Loops.md",
+    "Associate data science/Intermediate Python/3.1-Mini low level hustle.md",
+    "Associate data science/Intermediate Python/3-Logic, control flow and Filtering.md",
+    "Associate data science/Intermediate Python/2.2 Pandas.md",
+    "Associate data science/Intermediate Python/2.1- Dictionaries.md",
+    "Associate data science/Intermediate Python/1-Matplotlib.md",
+    "Associate data science/Intermediate Python/5-Hacker statistics.md",
+    "Associate data science/Introduction to Python/2-Python Lists.md",
+    "Associate data science/Introduction to Python/4-Numpy.md",
+    "Associate data science/Introduction to Python/3-Functions and Packages.md",
+    "General view/Formatting/Format your notes.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 1.md",
+    "Associate data science/Intermediate Python",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 2.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 3.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Resting Membrane Potential/Ionic Basis of the Resting Membrane Potential, part 2.md",
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Resting Membrane Potential/Ionic Basis of the Resting Membrane Potential, part 1.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Molecular Mechanisms of Action Potential Generation, part 1.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Molecular Mechanisms of Action Potential Generation, part 2.md",
-    "Associate data science/Introduction to Python/3-Functions and Packages.md",
-    "Associate data science/Introduction to Python/4-Numpy.md",
-    "Associate data science/Introduction to Python/Python Functions sheet.md",
-    "Associate data science/Introduction to Python/2-Python Lists.md",
-    "Associate data science/Introduction to Python/1-Python Basics.md",
-    "Untitled.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Resting Membrane Potential/Ionic Basis of the Resting Membrane Potential, part 2.md",
-    "Untitled",
-    "Associate data science/Introduction to Python",
     "Version Control crash course/Git , Github , Obsidian.md",
+    "Associate data science/Introduction to Python/Python Functions sheet.md",
+    "Associate data science/Introduction to Python/1-Python Basics.md",
+    "Associate data science/Introduction to Python",
     "Molecular Mechanisms of Action Potential Generation, part 1^.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Resting Membrane Potential/Ionic Basis of the Resting Membrane Potential, part 1.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Overview/Overview of neural signaling.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Overview/images",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/Propagation of Action Potentials.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/images",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 3.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 1.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 2.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/images/Capture d'écran 2025-07-24 145107.png",
     "Untitled.canvas",
     "Version Control crash course",
     "Recovery documentation 1/prologue/🔹 Proposed Structure of the Recovery Documentation.md",
     "Recovery documentation 1/prologue/Prologue.md",
-    "Recovery documentation 1/logs/J+1.md",
-    "Recovery documentation 1/logs/J+0.md",
     "Recovery documentation 1/prologue",
     "Recovery documentation 1/logs",
     "Recovery documentation 1",
-    "2025-07-24.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Recomended readings.md",
     "repo",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/images/Pasted image 20250721200751.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/images/Pasted image 20250722151402.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250721184851.png",
-    "General view/Formatting/Strikethrough.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Learning objectives.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250721182752.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250720221614.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250720221203.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250720213854.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/images/Pasted image 20250720181217.png",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/images/Pasted image 20250720173310.png",
-    "Medical Neuroscience/Core Concepts in neuroscience.md"
+    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/images/Pasted image 20250720173310.png"
   ]
 }

@@ -8,6 +8,8 @@
 - array is considered an independent python type , so it has methods as well that behaves in a particular manner
 ### NumPy Subsetting
 
+^978431
+
 - NumPy introduces **logic-based (boolean) subsetting**, a powerful alternative to traditional index-based selection.
     
 - When you apply a **logical condition** to an array (e.g., `bmi > 14`), NumPy returns a **boolean array** where each element corresponds to whether the condition is `True` or `False`.

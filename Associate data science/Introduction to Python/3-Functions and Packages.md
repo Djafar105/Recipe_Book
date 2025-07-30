@@ -29,12 +29,15 @@
 		* If pip is allready installed :		
 			* pip3 install insert_name_of_package
 	* Implementation : 
-		* - At the beginning of your code, call out the desired package via:  
-		* `import name_of_the_package`
-    
-		- You can modify the package name by doing:  
-		    `import old_name as new_name`
-		    
+		* At the beginning of your code, call the desired package using:
+		* `import package_name`
+		* You can rename a package for convenience:
+		* `import old_name as new_name`
+		* For subpackages:
+			* `import package_name.subpackage_name as alias #new name` 
+			* Without an alias, you must call functions using the full path, e.g: `package_name.subpackage_name.function()`
+			instead of :
+			* `alias.function()`
 		- To call a function from the package:  
 		    `package_name.function_name()`
 		    
