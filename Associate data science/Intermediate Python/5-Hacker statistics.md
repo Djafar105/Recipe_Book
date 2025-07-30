@@ -55,8 +55,8 @@ When iterating or updating a variable, it's common to prevent it from going belo
   Example:  
   ```python
   step = max(0, step - 1)  # Ensures 'step' is at least 0
-```
-* ***Roofing:** Use `min()` to ensure the value never exceeds an upper bound.  
+	```
+- **Roofing:** Use `min()` to ensure the value never exceeds an upper bound.  
 	Example:
 ```python
 step = min(10, step + 1)  # Ensures 'step' is at most 10
@@ -141,4 +141,4 @@ for i in range(5) :
 	-->solution we transpose the matrice to accomodate the needs of matplotlib 
 	```python
 	np.transpose(np.array(all_walks))
-```
+	```
