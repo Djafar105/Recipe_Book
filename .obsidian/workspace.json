@@ -4,95 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d5fd1cbaf651ff9a",
+        "id": "cf9caec2c9375698",
         "type": "tabs",
         "children": [
           {
-            "id": "0e4c0b9f580107c0",
+            "id": "1ee8cc177dbe85d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Associate data science/Introduction to Python/4-Numpy.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4-Numpy"
-            }
-          },
-          {
-            "id": "8fb98679a2ad33ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Associate data science/Intermediate Python/3-Logic, control flow and Filtering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3-Logic, control flow and Filtering"
-            }
-          },
-          {
-            "id": "1ca4e7922d373adc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Associate data science/Intermediate Python/3.1-Mini low level hustle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.1-Mini low level hustle"
-            }
-          },
-          {
-            "id": "8c2b1995d3e0ca63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Associate data science/Intermediate Python/1-Matplotlib.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1-Matplotlib"
-            }
-          },
-          {
-            "id": "8325e2ada031f9fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Associate data science/Projects/P1-Investigating Netflix Movies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "P1-Investigating Netflix Movies"
-            }
-          },
-          {
-            "id": "c4c0865ede66dde5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Associate data science/Intermediate Python/3.1-Mini low level hustle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.1-Mini low level hustle"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,12 +187,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4481a2cc2d873333",
+  "active": "1ee8cc177dbe85d6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Data Science/Projects/P1-Investigating Netflix Movies.md",
+    "Data Science/Version Control crash course/Git , Github , Obsidian.md",
+    "Data Science/Introduction to Python/Python Functions sheet.md",
+    "Data Science/Introduction to Python/4-Numpy.md",
+    "Data Science/Introduction to Python/3-Functions and Packages.md",
+    "Data Science/Introduction to Python/2-Python Lists.md",
+    "Data Science/Introduction to Python/1-Python Basics.md",
+    "Data Science/Intermediate Python/4-Loops.md",
+    "Data Science/Intermediate Python/5-Hacker statistics.md",
+    "Data Science/Intermediate Python/3.1-Mini low level hustle.md",
+    "Data Science/Intermediate Python/3-Logic, control flow and Filtering.md",
+    "Data Science/Intermediate Python/2.2 Pandas.md",
+    "Data Science/Intermediate Python/1-Matplotlib.md",
+    "Data Science/Intermediate Python/2.1- Dictionaries.md",
+    "Data Science/Projects",
+    "Data Science/Version Control crash course",
+    "Data Science/Introduction to Python",
+    "Data Science/Intermediate Python",
+    "Data Science",
+    "README.md",
     "Associate data science/Projects",
     "Associate data science/Projects/P1-Investigating Netflix Movies.md",
-    "Untitled.md",
-    "Version Control crash course/Git , Github , Obsidian.md",
+    "Associate data science/Version Control crash course/Git , Github , Obsidian.md",
     "Associate data science/Intermediate Python/1-Matplotlib.md",
     "Associate data science/Intermediate Python/2.1- Dictionaries.md",
     "Associate data science/Intermediate Python/2.2 Pandas.md",
@@ -276,36 +221,16 @@
     "Associate data science/Intermediate Python/3.1-Mini low level hustle.md",
     "Associate data science/Intermediate Python/3-Logic, control flow and Filtering.md",
     "Associate data science/Introduction to Python/2-Python Lists.md",
-    "Associate data science/Introduction to Python/4-Numpy.md",
-    "Associate data science/Introduction to Python/3-Functions and Packages.md",
-    "General view/Formatting/Format your notes.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 1.md",
     "Associate data science/Intermediate Python",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 2.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/Ionic Basis of the Action Potential Part 3.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Resting Membrane Potential/Ionic Basis of the Resting Membrane Potential, part 2.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Resting Membrane Potential/Ionic Basis of the Resting Membrane Potential, part 1.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Molecular Mechanisms of Action Potential Generation, part 1.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Molecular Mechanisms of Action Potential Generation, part 2.md",
-    "Associate data science/Introduction to Python/Python Functions sheet.md",
-    "Associate data science/Introduction to Python/1-Python Basics.md",
     "Associate data science/Introduction to Python",
-    "Molecular Mechanisms of Action Potential Generation, part 1^.md",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Overview/Overview of neural signaling.md",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Overview/images",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/images",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Ionic Basis of the Action Potential/images/Capture d'écran 2025-07-24 145107.png",
     "Untitled.canvas",
-    "Version Control crash course",
-    "Recovery documentation 1/prologue",
-    "Recovery documentation 1/logs",
-    "Recovery documentation 1",
-    "repo",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/images/Pasted image 20250721200751.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Propagation of Action Potentials/images/Pasted image 20250722151402.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250721184851.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250721182752.png",
-    "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250720221614.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250720221203.png",
     "Medical Neuroscience/Neural Signaling/Electrical Excitability and Signal Propagation/Molecular Mechanisms of Action Potential Generation/Images/Pasted image 20250720213854.png",
