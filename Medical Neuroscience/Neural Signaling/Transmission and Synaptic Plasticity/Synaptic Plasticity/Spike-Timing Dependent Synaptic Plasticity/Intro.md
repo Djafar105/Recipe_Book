@@ -1,0 +1,3 @@
+# Intro
+Up until now, we’ve been thinking of neurons and synapses at a unitarian scale, where the timing of events in the environment surrounding the synapse didn’t factor into our models. Our approach so far has been simple, important, and foundational—but it has only captured the roots of the processes unfolding in reality. In the living brain, the behavior of a synapse is profoundly shaped, modulated, and often constrained by time-dependent interactions spatially surrounding it —especially from other neurons converging onto the same postsynaptic target. 
+	--> This upscaled concept is called : **Spike-Timing Dependent Synaptic Plasticity**

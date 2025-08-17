@@ -1,0 +1,2 @@
+# Context 
+* *Clostridium Botulinum* is a bacteria that secretes a very dangerous lethal neurotoxin called  **Botulinum toxin** that causes paralyses and serious health complications, : Botulism [[More details]]. In short scientists have been able to control its effect and harness it in plastic surgeries and aesthetics.

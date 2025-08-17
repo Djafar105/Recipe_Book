@@ -4,7 +4,7 @@
 
 In order to study the ionic basis of the action potential, scientists back in the day (1960s) studied the ion currents #why , so they used the squid's giant axon (very accessible and easy to manipulate), and a very basic electrical circuit,.. The membrane permiability is very much unstable which makes the readings at that time kind of difficult , thus they opted to stabilise the permiability by harnessing the 2nd[Core Concepts in neuroscience](Core%20Concept%20in%20neuroscience.md) , in other words , stabilising the membrane potential --> stabilising the membrane ion channels [[]] --> stabilising the membrane permiability
 
-![Pasted image 20250620090309](./images/Pasted%20image%2020250620090309.png)
+![Pasted image 20250620090309](./images/Pasted%20image%2020250620090309.png) ^9c3666
 
 ## explanation of what Hodgkin-Huxley did :
 
@@ -26,3 +26,6 @@ In order to study the ionic basis of the action potential, scientists back in th
 ## Question corner :
  * Question: How come the inward means the positive ions entering the membrane and it is of a negative value and vice versa ?
  * Answer: So basically its a convention , inward is represented negativly and is the flow of the positive ions inside the cell , and outward is the flow of positive ions outside of the cell and is represented positivily 
+
+## Gallery
+![Pasted image 20250817172957.png](./images/Pasted%20image%2020250817172957.png) ^de2c3b

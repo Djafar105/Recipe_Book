@@ -1,0 +1,3 @@
+# Synaptic summation 
+* The postsynaptic membrane receives inputs from multiple presynaptic neurons simultaneously. Each input has its own signal intensity and type , either excitatory or inhibitory. These inputs generate synaptic currents that flow into the postsynaptic cell and merge. The result is a hybrid postsynaptic potential, shaped by an algebraic summation of the individual signal amplitudes.
+	![synaptic summation.png](./images/synaptic%20summation.png)

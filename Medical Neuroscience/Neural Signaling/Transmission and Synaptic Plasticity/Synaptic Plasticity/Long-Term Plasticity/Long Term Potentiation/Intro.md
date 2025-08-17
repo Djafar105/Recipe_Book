@@ -1,0 +1,3 @@
+# Intro 
+In this context we’ll talk about one of the most fundamental mechanisms of synaptic plasticity — a concept based on what we could call _neural trauma_, meaning here the passage of a strong, high-impact signal. This is known as **potentiation**. In this note we’ll tackle both short-term and long-term potentiation.
+**Tetanus**: a high-frequency stimulation, the kind responsible for triggering potentiation.

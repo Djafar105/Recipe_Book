@@ -1,0 +1,2 @@
+# Breakdown
+Potentiation is basically the increase in a neuron’s responsiveness to a given stimulus. For example, a normal neuron receiving an input of intensity _x_ might produce an EPSP of amplitude _y_. After potentiation, the very same _x_ input could generate an EPSP three times larger — _3y_ — without changing the input itself. This change is due to structural and functional modifications at the synapse as a result of the tetanic stimulation.

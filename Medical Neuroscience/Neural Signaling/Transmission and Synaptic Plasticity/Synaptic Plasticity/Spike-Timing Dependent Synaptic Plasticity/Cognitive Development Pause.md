@@ -1,0 +1,3 @@
+# Cognitive Development Pause : 
+From a neurodevelopmental perspective, the brain across its life span, when forging and creating the neuronal circuits, there seems to be the presence of noise phenomena - a lot of unwanted stimulus from the environment or from within the brain. This is covered and protected by the broader range of LTD compared to LTP. In short, it turns out that the brain is overly picky for high quality synapses and overly repellent for inconvenient ones, as a protective mechanism! #to_verify 
+![Pasted image 20250816100205.png](./images/Pasted%20image%2020250816100205.png)

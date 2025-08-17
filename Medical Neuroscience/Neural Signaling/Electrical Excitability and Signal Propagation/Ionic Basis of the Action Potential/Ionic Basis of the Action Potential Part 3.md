@@ -16,7 +16,7 @@
 ### At rest : 
 * [K]i >>[K]o and [Na]i << [Na]o 
 ### During an action potential :
-![[Pasted image 20250720181217.png]]
+![Pasted image 20250720181217.png](./images/Pasted%20image%2020250720181217.png)
 and vice versa with K , at first it would be leaving at an increasing speed , and then it would still be leaving but on increasingly decreasing speed 
 
 ***Conlusion :*** so then how does the concentration level goes back to normal for both Na and K is there sth else going on or am i misunderstanding sth ? #wonder #to_verify #verifed everything is detailed in [[Molecular Mechanisms of Action Potential Generation, part 2#^815511]]

@@ -23,6 +23,8 @@ A seed acts like a controlled “room of randomness.” Using the same seed mean
 ***
 ## Random Walks
 
+^4f6e79
+
 A **random walk** is a sequence of random steps where each step depends on the previous one, unlike a simple random list where values are independent. It’s essentially the *cumulative result* of random events. For example, starting at zero, each step could add or subtract 1, depending on a random choice.
 
 To simulate many steps, we use a `for` loop to iteratively update the current position and store it in a list representing the path.

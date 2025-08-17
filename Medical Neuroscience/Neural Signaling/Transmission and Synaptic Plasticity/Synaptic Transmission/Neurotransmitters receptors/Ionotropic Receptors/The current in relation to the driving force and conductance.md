@@ -1,0 +1,11 @@
+# The current in relation to the driving force and conductance 
+* As stated by Ohm’s Law [[Ionic Basis of the Action Potential Part 2#^fac3ca]], we can reapply the logic in the neuronal context with updated terms:
+	$Psc = g*V_{df}$
+* **PSC** = post-synaptic current 
+* There is always a tendency to a state of equilibrium whether it is electrical or chemical, that is , if we clamp the membrane at a **very negative voltage** [[Ionic Basis of the Action Potential Part 1#^9c3666]], then we will create resistance , a gradient , a need to restore balance of charge=concentration ([[Core Concepts in neuroscience]] ), either by letting go of negative charged ions or by letting in positive charged ions , it all depends on the selectivity of the ionotropic receptor and actually the concentration gradient as it can be reversed like in the case of GABA [[Medical Neuroscience/Neural Signaling/Transmission and Synaptic Plasticity/Synaptic Transmission/Synaptic Integration/Breakdown#^7e633e]]
+
+* In the nAChRs case, the channel is selective to k+ and Na + so then At –100 mV, the driving force on Na⁺ is massive (since its Nernst equilibrium potential of sodium  is around +60 mV), so Na⁺ rushes _in_. K⁺, with a Nernst equilibrium potential around –90 mV, has a smaller outward driving force—so its efflux is much weaker. Na⁺ dominates the inward current at that voltage.
+	![Capture d'écran 2025-08-07 004334.png](Capture%20d'écran%202025-08-07%20004334.png)
+* One more note: at 0mv it appears to be nothing is happening, in fact it could be possible that there is it is just a state of equilibrium inward current =  outward current ..
+* This happens when the **membrane potential (Vm)** equals the **reversal potential (V_rev)** the later is defined by being the membrane potential where **net ionic current through a given channel is zero**.
+> You can think of the reversal potetial as a **weighted average of the equilibrium potentials** of all permeant ions #to_verify #verifed , check this section : [[Ionic Basis of the Resting Membrane Potential, part 2]] , also it will be tackled here [[Medical Neuroscience/Neural Signaling/Transmission and Synaptic Plasticity/Synaptic Transmission/Synaptic Integration/Breakdown#^fba33f]]

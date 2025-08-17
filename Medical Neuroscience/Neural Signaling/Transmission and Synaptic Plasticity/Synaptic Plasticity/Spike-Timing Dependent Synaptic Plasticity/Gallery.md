@@ -1,0 +1,6 @@
+# Gallery 
+![Pasted image 20250816094211.png](./images/Pasted%20image%2020250816094211.png)
+> *FIGURE 8.18* **Spike timing-dependent synaptic plasticity in cultured hippocampal neurons.** 
+> (A) Left: Stimulating a presynaptic neuron (Pre) causes an EPSP in the postsynaptic neuron; applying a subsequent stimulus to the postsynaptic neuron (Post) causes an action potential that is superimposed on the EPSP. Right: Repetitive application of this stimulus paradigm causes LTP of the EPSP. 
+> (B) Reversing the order of stimulation, so that the postsynaptic neuron is excited before the presynaptic neuron, causes LTD of the EPSP. 
+> (C) Complex dependence of STDP on the interval between presynaptic activity and postsynaptic activity. If the presynaptic neuron is activated 40 milliseconds or less before the postsynaptic neuron, then LTP occurs. Conversely, if the postsynaptic neuron is activated 40 milliseconds or less before the presynaptic neuron, LTD occurs. If the interval between the two events is longer than 40 milliseconds, no STDP is observed. (After Bi and Poo, 1998.)
