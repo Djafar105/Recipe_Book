@@ -62,3 +62,52 @@ print(df[filter])    # Rows where 18 < age < 30
 ```
 * In both pandas and NumPy, the syntax and logic are almost identical — the filter (mask) is what drives the selection.  
 * For multiple conditions, `np.logical_and` or `np.logical_or` is often used.
+or you can not use it : 
+```python
+filter = (df["area"]<1000) & (df["region"]=="Pacific")#no[]
+```
+why no []: Here’s the essence:
+
+1. `homelessness["family_members"] < 1000` → gives you a **boolean Series** (True/False per row).
+    
+2. Same for `(homelessness["region"] == "Pacific")`.
+    
+3. Combine them with `&` → still a boolean Series, perfect for row filtering.
+    
+4. When you put square brackets around it → `[(...)]`, Python turns it into a **list containing that Series**. Pandas thinks you’re asking for “columns whose names are that list”. Since the column names obviously don’t look like `[False, True, False, ...]`, it crashes with `KeyError`.
+### Subsetting using is.in function
+mutating a DataFrame, transforming a DataFrame, and feature engineering.
+the old way : Suppose your DataFrame `homelessness` has a column `"region"`, and you want to select all rows where region is `"Pacific"` **or** `"Mountain"` **or** `"South Atlantic"`.
+```python
+mask = (homelessness["region"] == "Pacific") | (homelessness["region"] == "Mountain") | (homelessness["region"] == "South Atlantic")
+subset = homelessness[mask]
+```
+the new way :
+```python 
+mask = homelessness["region"].isin(["Pacific", "Mountain", "South Atlantic"])
+subset = homelessness[mask]
+```
+example : 
+```python
+import pandas as pd
+
+df = pd.DataFrame({
+    "state": ["CA", "NV", "TX", "FL"],
+    "region": ["Pacific", "Mountain", "South Atlantic", "South Atlantic"]
+})
+
+# tedious way
+mask1 = (df["region"] == "Pacific") | (df["region"] == "Mountain")
+print(df[mask1])
+
+# isin way
+mask2 = df["region"].isin(["Pacific", "Mountain"])
+print(df[mask2])
+```
+output : 
+```python
+  state   region
+0    CA  Pacific
+1    NV  Mountain
+
+```

@@ -8,7 +8,7 @@
 
 ### Useful commands
 * **pwd*** : prints my current directory
-* ***cd /c/pathway*** : puts the tentacle in that exact position (pathway)
+* ***cd /c/pathway*** : puts the tentacle in that exact position (pathway) :'cd /c/Users/djafa/Documents/Knowledge'
 * ***mkdir newfolder*** : creating new folder via bash  then when cd you dont need to put the whole pathway , just the name of the folder and it will know , but if you do it manually then whole pathway 
 * ***git init*** : basically activating the tentacle in that specefic location by creating a .git folder there that is invisible by default for protection 
 * ***echo*** : This command works like Python’s `print()`, outputting text to the screen by default. Using `>` redirects this output into a file, creating the file if it doesn’t exist or **overwriting** it completely if it does. To avoid overwriting and instead add text at the end of an existing file, you use `>>`, which appends the output. So when you run `echo "aaslema !" > notes.txt`, you’re creating a new file called `notes.txt` in the current folder with the content “Hello Git!”, replacing any previous content if the file already existed.
